@@ -235,32 +235,61 @@ AI-Impact-on-Jobs-and-Salaries/
 ├── code.ipynb                           # Data analysis notebook
 ├── README.md                            # Project documentation
 └── requirements.txt                     # Python dependencies
+```
 
 🚀 Getting Started
+
 1. Clone the Repository
+
 git clone [https://github.com/Subrat-ku-sahoo19/AI-Impact-on-Jobs-and-Salaries.git](https://github.com/Subrat-ku-sahoo19/AI-Impact-on-Jobs-and-Salaries.git)
+
 cd AI-Impact-on-Jobs-and-Salaries
 
+
+
 2. Install Dependencies
+
 pip install -r requirements.txt
 
+
+
 3. Run the Notebook
+
 jupyter notebook code.ipynb
 
+
+
 📦 Requirements
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scipy
+
 jupyter
 
 
+
+
+
 👨‍💻 Author
+
 Subrat Kumar Sahoo
+
+
 
 B.Tech — Computer Science & Engineering
 
+
+
 GitHub: @Subrat-ku-sahoo19
 
+
+
 ⭐ If you found this analysis useful, consider giving the repository a star!
+
